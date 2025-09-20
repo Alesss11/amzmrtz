@@ -1,11 +1,22 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
 
-
-
-:root {
-  font-family: Inter, sans-serif;
-  font-feature-settings: "liga" 1, "calt" 1; /* fix for Chrome */
+/* Fuente normal */
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype-variations');
+    font-weight: 100 900; /* Rango de peso */
+    font-style: normal;
 }
+
+/* Fuente italic */
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter-Italic-VariableFont_opsz,wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+
 @supports (font-variation-settings: normal) {
   :root {
     font-family: InterVariable, sans-serif;
