@@ -119,7 +119,7 @@ font-family: "inter", sans-serif;
 
     }
 
-    .iam{
+    .iam, .iam>div{
       display: flex;
       flex-direction: column;
       align-items: center;
