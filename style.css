@@ -786,21 +786,21 @@ header h1 {
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  height: 250dvh;
+  height: 250vh;
 }
         
 .proyectosgrid{
   display: grid;
   grid-template-columns: 1fr;
-  gap: 15dvw;
+  gap: 15vw;
   width: 100%;
-  padding-inline: 8dvw;
+  padding-inline: 8vw;
 
 }
 
 .proyectosgrid>div{
   background-color: #2D2250;
-  height: 65dvh;
+  height: 65vh;
   transition: 0.5s;
   overflow: hidden;
   border-radius: 10px;
