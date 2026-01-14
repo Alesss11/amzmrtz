@@ -443,8 +443,8 @@ body {
     font-size: 1.1rem;
   }
 
-  .work i {
-  }
+  /* .work i {
+  } */
 
   .work > div > a:nth-child(1) {
     background: linear-gradient(135deg, #7c3aed, #db2777);
