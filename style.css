@@ -196,7 +196,7 @@ body {
     color: transparent;
     font-size: 2.5rem;
     position: relative;
-    top: -10dvh;
+    top: -20dvh;
   }
 
   .abtmedivs {
@@ -221,7 +221,10 @@ body {
   .abtmedivs div:nth-child(2) img {
     width: 30dvw;
     border-radius: 30px;
-    box-shadow: 0 0 20px #9432e8, 0 0 40px #d8277b, 0 0 60px #b05076;
+    box-shadow:
+      0 0 20px #9432e8,
+      0 0 40px #d8277b,
+      0 0 60px #b05076;
   }
 
   .skills {
@@ -477,7 +480,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-weight: 200;
+    font-weight: 700;
   }
 }
 
@@ -684,7 +687,10 @@ body {
   .abtmedivs div:nth-child(2) img {
     width: 40dvw;
     border-radius: 30px;
-    box-shadow: 0 0 20px #9432e8, 0 0 40px #d8277b, 0 0 60px #b05076;
+    box-shadow:
+      0 0 20px #9432e8,
+      0 0 40px #d8277b,
+      0 0 60px #b05076;
   }
 
   .skills {
@@ -940,7 +946,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-weight: 200;
+    font-weight: 700;
   }
 }
 
@@ -1140,7 +1146,10 @@ header h1 {
   .abtmedivs div:nth-child(2) img {
     width: 30dvh;
     border-radius: 30px;
-    box-shadow: 0 0 20px #9432e8, 0 0 40px #d8277b, 0 0 60px #b05076;
+    box-shadow:
+      0 0 20px #9432e8,
+      0 0 40px #d8277b,
+      0 0 60px #b05076;
   }
 
   .skills {
@@ -1392,7 +1401,7 @@ header h1 {
     justify-content: center;
     align-items: center;
     color: white;
-    font-weight: 200;
+    font-weight: 700;
     background-color: rgb(21, 18, 46);
   }
 }
